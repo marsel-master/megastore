@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@300&display=swap');
+
+body{
+    background-color: black;
+}
+
+.container{
+    padding: 20px;
+    width: 664px;
+    height: 576px;
+    background-color: white;
+    margin: 0 auto;
+    text-align: left;
+}
+
+
+h1 {
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 30px;
+    line-height: 16px;
+    font-family: 'Sora', sans-serif;
+}
+
+p{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    font-family: 'Sora', sans-serif;
+}
+
+.name input{
+    padding-left: 16px;
+    padding-right: 16px;
+    margin-right: 8px;
+    text-align: left;
+    border: 2px solid #AEAEAE;
+    width: 165px;
+    height: 48px;
+    border-radius: 8px;
+    color: #AEAEAE;
+}
+
+.dann{
+    margin-right: 8px;
+    margin-bottom: 16px;
+    padding-left: 16px;
+    padding-right: 16px;
+    width: 165px;
+    height: 48px;
+    border: 2px solid #AEAEAE;
+    border-radius: 8px;
+    color: #AEAEAE;
+}
+
+select{
+    margin-right: 16px;
+    margin-bottom: 16px;
+    padding-left: 16px;
+    padding-right: 16px;
+    width: 205px;
+    height: 48px;
+    border: 2px solid #AEAEAE;
+    border-radius: 8px;
+    color: #AEAEAE;
+}
+
+.place{
+    padding-left: 16px;
+    padding-right: 16px;
+    border: 2px solid #AEAEAE;
+    border-radius: 8px;
+    color: #AEAEAE;
+    width: 380px;
+    height: 48px;
+}
+
+.but input{
+    margin-right: 140px;
+    margin-left: 140px;
+    margin-top: 40px;
+    border: 2px solid #232529;
+    border-radius: 4px;
+    background-color: #232529;
+    color: white;
+    width: 384px;
+    height: 48px;
+    text-align: center;
+}
